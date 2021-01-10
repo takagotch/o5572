@@ -1,0 +1,11 @@
+{
+  "name": "node-hapi-server",
+  "version": "1.0.0",
+  "description": "This is a basic node.js server setup that uses Hapi.js to serve static files and custom routes.",
+  "author": "Rainner Lins <rainnerlins@gmail.com>",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^16.6.0",
+    "inert": "^4.2.1"
+  }
+}

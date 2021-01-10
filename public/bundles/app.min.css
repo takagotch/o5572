@@ -1,0 +1,37 @@
+/**
+ * Replace this with the final frontend bundle CSS file for your app.
+ */
+
+html, body {
+  display: block;
+  position: relative;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.5em;
+  background-color: #efefe0;
+  color: #303020;
+}
+
+.container {
+  display: block;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+header, main, footer {
+  display: block;
+  margin: 2em 0 0 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
