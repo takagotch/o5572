@@ -1,3 +1,12 @@
+### https://takagotch.github.io/page423/
+---
+
+
+
+```
+```
+
+---
 # Hapi.js Boilerplate node server.
 
 This is a basic node.js server setup that uses [Hapi.js](https://github.com/hapijs/hapi) to serve static files and custom routes.
